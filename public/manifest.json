@@ -1,0 +1,9 @@
+{
+  "name": "Phil Gruneich",
+  "short_name": "Phil Gruneich",
+  "theme_color": "#5a4fff",
+  "background_color": "#5a4fff",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}

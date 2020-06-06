@@ -5,11 +5,21 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export",
+    "test": "jest"
   },
   "dependencies": {
-    "next": "9.1.4",
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "next": "^9.4.4",
+    "normalize.css": "^8.0.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.9.0",
+    "@testing-library/react": "^10.2.1",
+    "babel-plugin-styled-components": "^1.10.7",
+    "jest": "^26.0.1"
   }
 }

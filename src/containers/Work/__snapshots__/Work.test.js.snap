@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <article
+    class="Workstyles__WorkArticle-v7yxvq-0 cbLtt"
+  >
+    <header
+      class="Workstyles__WorkHeader-v7yxvq-1 hYwSwS"
+    >
+      <h2
+        class="Title-sc-1izy8tn-0 Workstyles__WorkTitle-v7yxvq-2 dvoTJc"
+      >
+        Title
+      </h2>
+    </header>
+    <aside
+      class="Workstyles__WorkAside-v7yxvq-3 hVeXEE"
+    >
+      <p
+        class="Workstyles__WorkText-v7yxvq-4 bwqqOW"
+      >
+        Text
+      </p>
+    </aside>
+    <section
+      class="Workstyles__WorkSection-v7yxvq-7 eEPcRS"
+    >
+      <ul
+        class="Workstyles__WorkList-v7yxvq-5 fLDfAf"
+      >
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          O Boticário
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Renault
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Frimesa
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Apae
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Corteva
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Portinari
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Uniprime
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          HouseCricket
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Shopping Mueller
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          TFG
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Bem Paraná
+        </li>
+      </ul>
+    </section>
+  </article>
+</DocumentFragment>
+`;
+
+exports[`Matches snapshot with high contrast 1`] = `
+<DocumentFragment>
+  <article
+    class="Workstyles__WorkArticle-v7yxvq-0 gzKHpN"
+  >
+    <header
+      class="Workstyles__WorkHeader-v7yxvq-1 hYwSwS"
+    >
+      <h2
+        class="Title-sc-1izy8tn-0 Workstyles__WorkTitle-v7yxvq-2 ebWSGx"
+      >
+        Title
+      </h2>
+    </header>
+    <aside
+      class="Workstyles__WorkAside-v7yxvq-3 hVeXEE"
+    >
+      <p
+        class="Workstyles__WorkText-v7yxvq-4 bwqqOW"
+      >
+        Text
+      </p>
+    </aside>
+    <section
+      class="Workstyles__WorkSection-v7yxvq-7 eEPcRS"
+    >
+      <ul
+        class="Workstyles__WorkList-v7yxvq-5 fLDfAf"
+      >
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          O Boticário
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Renault
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Frimesa
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Apae
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Corteva
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Portinari
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Uniprime
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          HouseCricket
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Shopping Mueller
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          TFG
+        </li>
+        <li
+          class="Workstyles__WorkListItem-v7yxvq-6 gMwSix"
+        >
+          Bem Paraná
+        </li>
+      </ul>
+    </section>
+  </article>
+</DocumentFragment>
+`;

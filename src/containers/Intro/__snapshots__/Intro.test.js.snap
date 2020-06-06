@@ -1,0 +1,385 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Introstyles__IntroWrapper-hviw07-0 bsBEpF"
+  >
+    <div
+      class="Introstyles__IntroContainer-hviw07-1 SWucn"
+    >
+      <aside
+        class="Introstyles__IntroBrand-hviw07-2 eaNkOb"
+      >
+        <svg
+          class="Brandstyles__Svg-l0rcvw-0 MezS"
+          viewBox="0 0 501 800"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <g
+            fill="#fff"
+          >
+            <path
+              d="M251.894 708.306H358.3v91.687H20.505v-135.75c0-21.395 2.815-40.295 8.445-56.702 5.63-16.407 13.592-30.08 23.887-41.018 10.295-10.938 22.6-19.222 36.916-24.852 14.316-5.63 30.16-8.445 47.533-8.445 17.05 0 32.613 2.775 46.688 8.324 14.074 5.55 26.139 13.794 36.192 24.732 10.053 10.938 17.855 24.49 23.404 40.656 5.55 16.166 8.324 34.865 8.324 56.098v45.27zm-149.112 0h68.766v-43.099c0-5.63-.764-10.857-2.292-15.683-1.529-4.826-3.74-8.968-6.636-12.426-2.895-3.458-6.474-6.193-10.737-8.204-4.262-2.01-9.128-3.016-14.597-3.016-5.47 0-10.335 1.006-14.598 3.016-4.262 2.011-7.882 4.746-10.857 8.204-2.976 3.458-5.228 7.6-6.756 12.426-1.528 4.826-2.293 10.053-2.293 15.683v43.1zM138.01 414.998c-16.89-13.512-25.335-33.699-25.335-60.562 0-12.385 2.091-23.806 6.273-34.261 4.183-10.456 10.215-19.464 18.096-27.024 7.882-7.56 17.373-13.472 28.472-17.734 11.099-4.263 23.484-6.394 37.157-6.394H358.3v85.896H229.697c-12.065 0-21.193 2.654-27.386 7.962-6.193 5.309-9.29 12.708-9.29 22.198 0 4.182.684 8.083 2.052 11.702 1.367 3.62 3.579 6.797 6.635 9.531 3.056 2.735 6.917 4.866 11.581 6.394 4.665 1.528 10.295 2.292 16.89 2.292H358.3v85.896H10.373v-85.896H138.01zM358.3 142.35v85.896H119.19V142.35H358.3zM-.004 185.54c0-6.917 1.247-13.392 3.74-19.424 2.494-6.032 5.952-11.26 10.375-15.683 4.424-4.424 9.652-7.882 15.684-10.375 6.032-2.493 12.506-3.74 19.423-3.74 6.917 0 13.391 1.247 19.423 3.74 6.032 2.493 11.26 5.951 15.683 10.375 4.424 4.423 7.882 9.651 10.376 15.683 2.493 6.032 3.74 12.507 3.74 19.423 0 6.917-1.247 13.391-3.74 19.424-2.494 6.032-5.952 11.26-10.376 15.683-4.423 4.423-9.65 7.882-15.683 10.375-6.032 2.493-12.506 3.74-19.423 3.74-6.917 0-13.391-1.247-19.423-3.74-6.032-2.493-11.26-5.952-15.684-10.375-4.423-4.424-7.881-9.651-10.375-15.683-2.493-6.033-3.74-12.507-3.74-19.424zM10.854 85.89V-.006H358.3V85.89z"
+              fill-rule="nonzero"
+            />
+            <path
+              d="M415.331 499.053V141.756h85.013v357.297z"
+            />
+          </g>
+        </svg>
+      </aside>
+      <section
+        class="Introstyles__IntroSection-hviw07-3 Totzl"
+      >
+        <div
+          class="IntroTopBarstyles__IntroTopBarWrapper-wjd7hc-0 hqWtXX"
+        >
+          <div
+            class="IntroTopBarstyles__IntroTopBarContainer-wjd7hc-1 gFBzzl"
+          >
+            <button
+              aria-label="Alto Contraste"
+              aria-pressed="false"
+              class="HighContrastToggle__HighContrastButton-dyr20h-0 hVpOTY"
+              type="button"
+            >
+              <svg
+                height="16"
+                viewBox="0 0 26 16"
+                width="26"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  fill="currentColor"
+                >
+                  <path
+                    d="M13.09 0c5.086.072 10.754 2.187 12.493 6.575 1.391 3.51-3.194 7.193-6.96 8.473-.816.277-1.655.488-2.504.636C10.35 16.687 3.265 15.382.44 9.872-1.9 5.306 5.491-.036 13.09 0zm-.36 2C8.563 2.06 3.844 3.57 2.165 7.104c-1.516 3.192 5.457 6.85 10.734 6.85.913 0 1.826-.068 2.727-.216 3.404-.557 7.042-2.437 8.097-5.096C24.951 5.545 18.421 1.974 12.73 2z"
+                  />
+                  <path
+                    d="M13.028 2.978c4.308.165 7.009 7.409 1.818 9.606C11.279 14.093 6.373 10 8.394 5.809c.843-1.75 2.418-2.858 4.634-2.83zm-.206 2c-2.604.099-4.177 4.457-1.089 5.763 1.93.817 4.53-1 4.12-3.295-.254-1.422-1.431-2.488-3.031-2.468z"
+                  />
+                </g>
+              </svg>
+            </button>
+            <div
+              aria-label="Switch to another language"
+              class="Languagesstyles__LanguagesContainer-sc-1i72sgo-0 dxNjpm"
+            >
+              <button
+                aria-label="Translate to English"
+                aria-pressed="true"
+                class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 KIPAK"
+                type="button"
+              >
+                EN
+              </button>
+              <button
+                aria-label="Traduzir para Português"
+                aria-pressed="false"
+                class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 gHsmBy"
+                type="button"
+              >
+                PT
+              </button>
+            </div>
+          </div>
+        </div>
+        <article
+          class="IntroArticlestyles__IntroArticle-sc-18unb4b-0 ChtKc"
+        >
+          <div
+            class="IntroArticlestyles__IntroText-sc-18unb4b-5 jahBGd"
+          >
+            <p
+              class="IntroArticlestyles__IntroParagraph-sc-18unb4b-1 pwOLA"
+            >
+              <em
+                class="IntroArticlestyles__IntroEmphasis-sc-18unb4b-2 gVYCJY"
+              >
+                hi
+              </em>
+              , I'am 
+              <strong
+                class="IntroArticlestyles__IntroStrong-sc-18unb4b-4 heyimr"
+              >
+                Phillip Gruneich
+              </strong>
+               
+              <button
+                aria-label="Play sound"
+                class="Pronunciationstyles__PronunciationButton-ehdec3-0 cDuaSV"
+                type="button"
+              >
+                <audio
+                  crossorigin="anonymous"
+                  src="/assets/phillip-gruneich.mp3"
+                  type="audio/mp3"
+                />
+                <svg
+                  class="Pronunciationstyles__PronunciationSvg-ehdec3-1 gAtKcF"
+                  viewBox="0 0 49 49"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    class="Pronunciationstyles__PronunciationPath-ehdec3-2 bWoeOm"
+                    d="M34.112 38.514l-15.425-2.283-6.146 3.548-7.617-13.194 6.138-3.543L16.72 8.389l17.392 30.125zM13.48 25.108l-4.457 2.574 4.616 7.996 4.45-2.57 10.32 1.53-11.153-19.316c-1.259 3.263-2.516 6.526-3.776 9.786zM28.98 8.368c7.962.133 14.724 8.632 12.477 16.63-.895 3.189-3.026 5.975-5.91 7.715l-1.432.839-1.516-2.59c5.236-3.066 8.062-9.689 4.794-14.883-2.71-4.306-8.834-5.985-13.47-3.424l-1.427.811-1.483-2.607 1.442-.82c2.022-1.117 3.93-1.682 6.524-1.67zm-.055 5.795c6.032.1 10.28 9.572 3.66 13.568l-1.369.8-1.517-2.588c.922-.538 1.906-1.017 2.549-1.848 2.288-2.953-1.401-8.643-5.493-6.382l-1.361.773-1.483-2.608c1.576-.896 3.216-1.722 5.014-1.715z"
+                  />
+                </svg>
+              </button>
+              , Text 
+              <a
+                class="IntroArticlestyles__IntroLink-sc-18unb4b-3 bzRILP"
+                href="https://www.paranabanco.com.br/"
+                rel="noopener"
+                target="_blank"
+              >
+                Paraná Banco
+              </a>
+              .
+            </p>
+          </div>
+          <footer
+            class="IntroHellostyles__IntroFooter-sc-1q91bsw-0 cQuqMV"
+          >
+            <a
+              aria-label="SAY 'HI'!"
+              class="CallToActionstyles__CallToActionLink-sc-1m5biii-5 jYFDEQ"
+              href="mailto:undefined"
+            >
+              <svg
+                class="CallToActionstyles__CallToActionSvg-sc-1m5biii-0 hxiRZq"
+                height="160"
+                viewBox="0 0 160 160"
+                width="160"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  class="CallToActionstyles__CallToActionGroup-sc-1m5biii-1 BuMlK"
+                >
+                  <path
+                    class="CallToActionstyles__CallToActionWavy-sc-1m5biii-2 dffWZx"
+                    d="M80 0c4.683 0 8.945 8.368 14.047 9.383 5.103 1.015 12.243-5.086 16.568-3.294 4.326 1.792 5.061 11.154 9.387 14.044 4.326 2.89 13.257-.013 16.568 3.298 3.31 3.31.407 12.241 3.297 16.567 2.89 4.326 12.251 5.06 14.045 9.387 1.79 4.325-4.31 11.465-3.295 16.568 1.015 5.102 9.385 9.364 9.385 14.046 0 4.682-8.37 8.944-9.385 14.046-1.014 5.103 5.085 12.243 3.295 16.569-1.794 4.325-11.155 5.06-14.045 9.386-2.89 4.326.013 13.257-3.297 16.568-3.311 3.31-12.242.407-16.568 3.297-4.326 2.89-5.06 12.253-9.387 14.044-4.325 1.792-11.465-4.308-16.568-3.294C88.945 151.63 84.683 160 80.001 160c-4.682 0-8.944-8.369-14.047-9.384-5.102-1.014-12.242 5.086-16.568 3.294-4.326-1.791-5.06-11.154-9.386-14.044-4.326-2.89-13.257.013-16.568-3.297-3.31-3.311-.407-12.242-3.297-16.568-2.89-4.325-12.253-5.06-14.045-9.386-1.791-4.326 4.31-11.466 3.294-16.569C8.37 88.943.001 84.681.001 80c0-4.682 8.368-8.944 9.383-14.046C10.4 60.85 4.3 53.71 6.09 49.385c1.792-4.326 11.155-5.061 14.045-9.387 2.89-4.326-.013-13.257 3.297-16.567 3.311-3.311 12.242-.407 16.568-3.298 4.325-2.89 5.06-12.252 9.386-14.044 4.326-1.792 11.466 4.309 16.568 3.294C71.057 8.368 75.32-.001 80.001-.001z"
+                  />
+                  <g
+                    class="CallToActionstyles__CallToActionTextGroup-sc-1m5biii-3 hZMUyy"
+                  >
+                    <text
+                      class="CallToActionstyles__CallToActionText-sc-1m5biii-4 bdByvJ"
+                      transform="matrix(.6678 .38556 -.38936 .6744 -124.604 -581.137)"
+                      x="606.571"
+                      y="592.749"
+                    >
+                      SAY
+                    </text>
+                    <text
+                      class="CallToActionstyles__CallToActionText-sc-1m5biii-4 bdByvJ"
+                      transform="matrix(.6678 .38556 -.38936 .6744 -124.604 -581.137)"
+                      x="597.131"
+                      y="659.949"
+                    >
+                      'HI'!
+                    </text>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </footer>
+        </article>
+      </section>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Matches snapshot with high contrast 1`] = `
+<DocumentFragment>
+  <div
+    class="Introstyles__IntroWrapper-hviw07-0 iEvDDd"
+  >
+    <div
+      class="Introstyles__IntroContainer-hviw07-1 SWucn"
+    >
+      <aside
+        class="Introstyles__IntroBrand-hviw07-2 eaNkOb"
+      >
+        <svg
+          class="Brandstyles__Svg-l0rcvw-0 MezS"
+          viewBox="0 0 501 800"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <g
+            fill="#fff"
+          >
+            <path
+              d="M251.894 708.306H358.3v91.687H20.505v-135.75c0-21.395 2.815-40.295 8.445-56.702 5.63-16.407 13.592-30.08 23.887-41.018 10.295-10.938 22.6-19.222 36.916-24.852 14.316-5.63 30.16-8.445 47.533-8.445 17.05 0 32.613 2.775 46.688 8.324 14.074 5.55 26.139 13.794 36.192 24.732 10.053 10.938 17.855 24.49 23.404 40.656 5.55 16.166 8.324 34.865 8.324 56.098v45.27zm-149.112 0h68.766v-43.099c0-5.63-.764-10.857-2.292-15.683-1.529-4.826-3.74-8.968-6.636-12.426-2.895-3.458-6.474-6.193-10.737-8.204-4.262-2.01-9.128-3.016-14.597-3.016-5.47 0-10.335 1.006-14.598 3.016-4.262 2.011-7.882 4.746-10.857 8.204-2.976 3.458-5.228 7.6-6.756 12.426-1.528 4.826-2.293 10.053-2.293 15.683v43.1zM138.01 414.998c-16.89-13.512-25.335-33.699-25.335-60.562 0-12.385 2.091-23.806 6.273-34.261 4.183-10.456 10.215-19.464 18.096-27.024 7.882-7.56 17.373-13.472 28.472-17.734 11.099-4.263 23.484-6.394 37.157-6.394H358.3v85.896H229.697c-12.065 0-21.193 2.654-27.386 7.962-6.193 5.309-9.29 12.708-9.29 22.198 0 4.182.684 8.083 2.052 11.702 1.367 3.62 3.579 6.797 6.635 9.531 3.056 2.735 6.917 4.866 11.581 6.394 4.665 1.528 10.295 2.292 16.89 2.292H358.3v85.896H10.373v-85.896H138.01zM358.3 142.35v85.896H119.19V142.35H358.3zM-.004 185.54c0-6.917 1.247-13.392 3.74-19.424 2.494-6.032 5.952-11.26 10.375-15.683 4.424-4.424 9.652-7.882 15.684-10.375 6.032-2.493 12.506-3.74 19.423-3.74 6.917 0 13.391 1.247 19.423 3.74 6.032 2.493 11.26 5.951 15.683 10.375 4.424 4.423 7.882 9.651 10.376 15.683 2.493 6.032 3.74 12.507 3.74 19.423 0 6.917-1.247 13.391-3.74 19.424-2.494 6.032-5.952 11.26-10.376 15.683-4.423 4.423-9.65 7.882-15.683 10.375-6.032 2.493-12.506 3.74-19.423 3.74-6.917 0-13.391-1.247-19.423-3.74-6.032-2.493-11.26-5.952-15.684-10.375-4.423-4.424-7.881-9.651-10.375-15.683-2.493-6.033-3.74-12.507-3.74-19.424zM10.854 85.89V-.006H358.3V85.89z"
+              fill-rule="nonzero"
+            />
+            <path
+              d="M415.331 499.053V141.756h85.013v357.297z"
+            />
+          </g>
+        </svg>
+      </aside>
+      <section
+        class="Introstyles__IntroSection-hviw07-3 Totzl"
+      >
+        <div
+          class="IntroTopBarstyles__IntroTopBarWrapper-wjd7hc-0 hqWtXX"
+        >
+          <div
+            class="IntroTopBarstyles__IntroTopBarContainer-wjd7hc-1 gFBzzl"
+          >
+            <button
+              aria-label="Alto Contraste"
+              aria-pressed="true"
+              class="HighContrastToggle__HighContrastButton-dyr20h-0 cvjVRL"
+              type="button"
+            >
+              <svg
+                height="16"
+                viewBox="0 0 26 16"
+                width="26"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  fill="currentColor"
+                >
+                  <path
+                    d="M13.09 0c5.086.072 10.754 2.187 12.493 6.575 1.391 3.51-3.194 7.193-6.96 8.473-.816.277-1.655.488-2.504.636C10.35 16.687 3.265 15.382.44 9.872-1.9 5.306 5.491-.036 13.09 0zm-.36 2C8.563 2.06 3.844 3.57 2.165 7.104c-1.516 3.192 5.457 6.85 10.734 6.85.913 0 1.826-.068 2.727-.216 3.404-.557 7.042-2.437 8.097-5.096C24.951 5.545 18.421 1.974 12.73 2z"
+                  />
+                  <path
+                    d="M13.028 2.978c4.308.165 7.009 7.409 1.818 9.606C11.279 14.093 6.373 10 8.394 5.809c.843-1.75 2.418-2.858 4.634-2.83zm-.206 2c-2.604.099-4.177 4.457-1.089 5.763 1.93.817 4.53-1 4.12-3.295-.254-1.422-1.431-2.488-3.031-2.468z"
+                  />
+                </g>
+              </svg>
+            </button>
+            <div
+              aria-label="Switch to another language"
+              class="Languagesstyles__LanguagesContainer-sc-1i72sgo-0 dxNjpm"
+            >
+              <button
+                aria-label="Translate to English"
+                aria-pressed="true"
+                class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 gKRrif"
+                type="button"
+              >
+                EN
+              </button>
+              <button
+                aria-label="Traduzir para Português"
+                aria-pressed="false"
+                class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 eqBguT"
+                type="button"
+              >
+                PT
+              </button>
+            </div>
+          </div>
+        </div>
+        <article
+          class="IntroArticlestyles__IntroArticle-sc-18unb4b-0 ChtKc"
+        >
+          <div
+            class="IntroArticlestyles__IntroText-sc-18unb4b-5 jahBGd"
+          >
+            <p
+              class="IntroArticlestyles__IntroParagraph-sc-18unb4b-1 pwOLA"
+            >
+              <em
+                class="IntroArticlestyles__IntroEmphasis-sc-18unb4b-2 gVYCJY"
+              >
+                hi
+              </em>
+              , I'am 
+              <strong
+                class="IntroArticlestyles__IntroStrong-sc-18unb4b-4 heyimr"
+              >
+                Phillip Gruneich
+              </strong>
+               
+              <button
+                aria-label="Play sound"
+                class="Pronunciationstyles__PronunciationButton-ehdec3-0 cDuaSV"
+                type="button"
+              >
+                <audio
+                  crossorigin="anonymous"
+                  src="/assets/phillip-gruneich.mp3"
+                  type="audio/mp3"
+                />
+                <svg
+                  class="Pronunciationstyles__PronunciationSvg-ehdec3-1 gAtKcF"
+                  viewBox="0 0 49 49"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    class="Pronunciationstyles__PronunciationPath-ehdec3-2 etNdUX"
+                    d="M34.112 38.514l-15.425-2.283-6.146 3.548-7.617-13.194 6.138-3.543L16.72 8.389l17.392 30.125zM13.48 25.108l-4.457 2.574 4.616 7.996 4.45-2.57 10.32 1.53-11.153-19.316c-1.259 3.263-2.516 6.526-3.776 9.786zM28.98 8.368c7.962.133 14.724 8.632 12.477 16.63-.895 3.189-3.026 5.975-5.91 7.715l-1.432.839-1.516-2.59c5.236-3.066 8.062-9.689 4.794-14.883-2.71-4.306-8.834-5.985-13.47-3.424l-1.427.811-1.483-2.607 1.442-.82c2.022-1.117 3.93-1.682 6.524-1.67zm-.055 5.795c6.032.1 10.28 9.572 3.66 13.568l-1.369.8-1.517-2.588c.922-.538 1.906-1.017 2.549-1.848 2.288-2.953-1.401-8.643-5.493-6.382l-1.361.773-1.483-2.608c1.576-.896 3.216-1.722 5.014-1.715z"
+                  />
+                </svg>
+              </button>
+              , Text 
+              <a
+                class="IntroArticlestyles__IntroLink-sc-18unb4b-3 bzRILP"
+                href="https://www.paranabanco.com.br/"
+                rel="noopener"
+                target="_blank"
+              >
+                Paraná Banco
+              </a>
+              .
+            </p>
+          </div>
+          <footer
+            class="IntroHellostyles__IntroFooter-sc-1q91bsw-0 cQuqMV"
+          >
+            <a
+              aria-label="SAY 'HI'!"
+              class="CallToActionstyles__CallToActionLink-sc-1m5biii-5 jYFDEQ"
+              href="mailto:undefined"
+            >
+              <svg
+                class="CallToActionstyles__CallToActionSvg-sc-1m5biii-0 hxiRZq"
+                height="160"
+                viewBox="0 0 160 160"
+                width="160"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g
+                  class="CallToActionstyles__CallToActionGroup-sc-1m5biii-1 BuMlK"
+                >
+                  <path
+                    class="CallToActionstyles__CallToActionWavy-sc-1m5biii-2 iWiSTo"
+                    d="M80 0c4.683 0 8.945 8.368 14.047 9.383 5.103 1.015 12.243-5.086 16.568-3.294 4.326 1.792 5.061 11.154 9.387 14.044 4.326 2.89 13.257-.013 16.568 3.298 3.31 3.31.407 12.241 3.297 16.567 2.89 4.326 12.251 5.06 14.045 9.387 1.79 4.325-4.31 11.465-3.295 16.568 1.015 5.102 9.385 9.364 9.385 14.046 0 4.682-8.37 8.944-9.385 14.046-1.014 5.103 5.085 12.243 3.295 16.569-1.794 4.325-11.155 5.06-14.045 9.386-2.89 4.326.013 13.257-3.297 16.568-3.311 3.31-12.242.407-16.568 3.297-4.326 2.89-5.06 12.253-9.387 14.044-4.325 1.792-11.465-4.308-16.568-3.294C88.945 151.63 84.683 160 80.001 160c-4.682 0-8.944-8.369-14.047-9.384-5.102-1.014-12.242 5.086-16.568 3.294-4.326-1.791-5.06-11.154-9.386-14.044-4.326-2.89-13.257.013-16.568-3.297-3.31-3.311-.407-12.242-3.297-16.568-2.89-4.325-12.253-5.06-14.045-9.386-1.791-4.326 4.31-11.466 3.294-16.569C8.37 88.943.001 84.681.001 80c0-4.682 8.368-8.944 9.383-14.046C10.4 60.85 4.3 53.71 6.09 49.385c1.792-4.326 11.155-5.061 14.045-9.387 2.89-4.326-.013-13.257 3.297-16.567 3.311-3.311 12.242-.407 16.568-3.298 4.325-2.89 5.06-12.252 9.386-14.044 4.326-1.792 11.466 4.309 16.568 3.294C71.057 8.368 75.32-.001 80.001-.001z"
+                  />
+                  <g
+                    class="CallToActionstyles__CallToActionTextGroup-sc-1m5biii-3 bLgXag"
+                  >
+                    <text
+                      class="CallToActionstyles__CallToActionText-sc-1m5biii-4 bdByvJ"
+                      transform="matrix(.6678 .38556 -.38936 .6744 -124.604 -581.137)"
+                      x="606.571"
+                      y="592.749"
+                    >
+                      SAY
+                    </text>
+                    <text
+                      class="CallToActionstyles__CallToActionText-sc-1m5biii-4 bdByvJ"
+                      transform="matrix(.6678 .38556 -.38936 .6744 -124.604 -581.137)"
+                      x="597.131"
+                      y="659.949"
+                    >
+                      'HI'!
+                    </text>
+                  </g>
+                </g>
+              </svg>
+            </a>
+          </footer>
+        </article>
+      </section>
+    </div>
+  </div>
+</DocumentFragment>
+`;

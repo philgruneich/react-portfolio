@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/philgruneich
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://philgruneich.com
+  * I am philgruneich (https://keybase.io/philgruneich) on keybase.
+  * I have a public key ASCImpS5AkiYRlekKl0e5xDWhf7uKDFxUjYlcA7aBcsOEQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120889a94b90248984657a42a5d1ee710d685feee283171523625700eda05cb0e110a",
+      "host": "keybase.io",
+      "kid": "0120889a94b90248984657a42a5d1ee710d685feee283171523625700eda05cb0e110a",
+      "uid": "50b2acf3bff35f5ab862a438444c9b19",
+      "username": "philgruneich"
+    },
+    "merkle_root": {
+      "ctime": 1566866144,
+      "hash": "9d8c61b537b7ce5b50baebd2dbb3da6a0e749da9156717a0b68ebdbe819fe44038c5046c0979e6a6b99565c260b0c57891f6f5849da10b90e7a3be810ae85c2b",
+      "hash_meta": "4717049a3b100c417a93121ebaae33743437eab23da9e8ce19306d4b01ee894f",
+      "seqno": 6105932
+    },
+    "service": {
+      "entropy": "dubjbZPgWw2rMSllZnQR3m71",
+      "hostname": "philgruneich.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1566866196,
+  "expire_in": 504576000,
+  "prev": "f1f751b865816274f459c738abfe50d8982055d35ceed50f3674f11b79c433a9",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiJqUuQJImEZXpCpdHucQ1oX+7igxcVI2JXAO2gXLDhEKp3BheWxvYWTESpcCB8Qg8fdRuGWBYnT0Wcc4q/5Q2JggVdNc7tUPNnTxG3nEM6nEIJHDHJn1QDAfyOZrlBBcGigONGr4mGunVn8APU4u32byAgHCo3NpZ8RAex4f3vsqwIC9lknffOmExKVI0or+GSRZbdsWvxN8mY2OiJkj+SAwPojowYvT960o9WtS1V7nZi0+eHB4/PvIDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFC//WCsQWkvl4B3BiXNQTKeuf8VA63pJefHkLuT8HOio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/philgruneich
+
+==================================================================

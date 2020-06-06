@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    aria-label="Switch to another language"
+    class="Languagesstyles__LanguagesContainer-sc-1i72sgo-0 dxNjpm"
+  >
+    <button
+      aria-label="Translate to English"
+      aria-pressed="true"
+      class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 KIPAK"
+      type="button"
+    >
+      EN
+    </button>
+    <button
+      aria-label="Traduzir para Português"
+      aria-pressed="false"
+      class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 gHsmBy"
+      type="button"
+    >
+      PT
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Matches snapshot with high contrast 1`] = `
+<DocumentFragment>
+  <div
+    aria-label="Switch to another language"
+    class="Languagesstyles__LanguagesContainer-sc-1i72sgo-0 dxNjpm"
+  >
+    <button
+      aria-label="Translate to English"
+      aria-pressed="true"
+      class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 gKRrif"
+      type="button"
+    >
+      EN
+    </button>
+    <button
+      aria-label="Traduzir para Português"
+      aria-pressed="false"
+      class="Languagesstyles__LanguagesButton-sc-1i72sgo-1 eqBguT"
+      type="button"
+    >
+      PT
+    </button>
+  </div>
+</DocumentFragment>
+`;
