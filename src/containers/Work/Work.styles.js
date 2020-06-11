@@ -8,6 +8,7 @@ export const WorkArticle = styled.article`
   padding: var(--yMargin) var(--xMargin);
   background: #ff8361;
   color: #fff;
+  overflow: hidden;
 
   @media (min-width: 992px) {
     grid-template-columns: [list] 1fr [text] 1fr;
@@ -59,26 +60,7 @@ export const WorkList = styled.ul`
   margin: 0;
   padding: 0;
   list-style: none;
-`;
-
-export const WorkListItem = styled.li`
-  font-weight: 700;
-  line-height: 1.46841;
-  font-size: ${fluidType({
-    viewportWidth: {
-      min: 320,
-      max: 1200
-    },
-    size: {
-      min: 32,
-      max: 64
-    }
-  })};
-
-  @media(min-width: 1200px) {
-    font-size: ${pxToEm(64)};
-    line-height: 1.25;
-  }
+  perspective: 500px;
 `;
 
 export const WorkSection = styled.section``;

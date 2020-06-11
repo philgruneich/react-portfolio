@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import { LanguageContext } from '~/store/LanguageStore';
 import { HighContrastContext } from '~/store/HighContrastStore';
+import { WorkListItem } from './WorkListItem';
 import {
   WorkArticle,
   WorkHeader,
@@ -8,7 +9,6 @@ import {
   WorkAside,
   WorkText,
   WorkList,
-  WorkListItem,
   WorkSection
 } from './Work.styles';
 
