@@ -3,6 +3,8 @@ import Head from 'next/head';
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
+  position: relative;
+  z-index: 1;
   display: flex;
   flex-direction: column;
   flex-grow: 1;
