@@ -20,6 +20,7 @@
     "@testing-library/jest-dom": "^5.9.0",
     "@testing-library/react": "^10.2.1",
     "babel-plugin-styled-components": "^1.10.7",
+    "directory-named-webpack-plugin": "^4.0.1",
     "jest": "^26.0.1"
   }
 }
