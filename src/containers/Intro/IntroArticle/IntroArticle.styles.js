@@ -41,9 +41,9 @@ export const IntroEmphasis = styled.em`
   text-decoration-skip: trailing-spaces;
 `;
 
-const wavyBackground = `data:image/svg+xml;,${encodeURIComponent("<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'><path fill='none' stroke='#fff' stroke-width='2' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/></svg>")}`;
+const wavyBackground = `data:image/svg+xml;,${encodeURIComponent("<svg viewBox='0 0 20 6' xmlns='http://www.w3.org/2000/svg'><path fill='none' d='M0 0h20v6H0z'/><path d='M0 4.782c5 0 5-3.582 10-3.582s5 3.582 10 3.582S25 1.2 30 1.2s5 3.582 10 3.582' class='q' fill='none' stroke='#fff' stroke-width='1.8'/></svg>")}`;
 
-const wavyBackgroundHover = `data:image/svg+xml;,${encodeURIComponent("<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'><style type='text/css'>.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}</style><path fill='none' stroke='#fff' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/></svg>")}`;
+const wavyBackgroundHover = `data:image/svg+xml;,${encodeURIComponent("<svg viewBox='0 0 20 6' xmlns='http://www.w3.org/2000/svg'><style>.q{animation:s .2s linear infinite;}@keyframes s {from {transform:translateX(0);}to {transform:translateX(-20px);}}</style><path fill='none' d='M0 0h20v6H0z'/><path d='M0 4.782c5 0 5-3.582 10-3.582s5 3.582 10 3.582S25 1.2 30 1.2s5 3.582 10 3.582' class='q' fill='none' stroke='#fff' stroke-width='1.8'/></svg>")}`;
 
 export const IntroLink = styled.a`
   position: relative;

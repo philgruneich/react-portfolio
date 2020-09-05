@@ -6,7 +6,7 @@ export const WorkArticle = styled.article`
   display: grid;
   grid-gap: var(--xMargin)  calc(var(--xMargin) * 2);
   padding: var(--yMargin) var(--xMargin);
-  background: #ff8361;
+  background: ${props => props.theme.orange};
   color: #fff;
 
   @media (min-width: 992px) {
@@ -25,7 +25,7 @@ export const WorkHeader = styled.header`
 `;
 
 export const WorkTitle = styled(Title)`
-  color: #fdd630;
+  color: ${props => props.theme.yellow};
   font-weight: 700;
 
   ${props => props.hasHighContrast && `
