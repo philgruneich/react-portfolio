@@ -5,6 +5,7 @@ export const Svg = styled.svg.attrs({
   xmlns: "http://www.w3.org/2000/svg"
 })`
   width: auto;
+  min-width: 62.625vh;
   height: 100%;
   min-height: 100vh;
 `;
