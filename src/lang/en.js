@@ -3,7 +3,7 @@ export default {
     article: {
       hi: 'Hi',
       iam: `I'm`,
-      text: 'a front-end developer based in Curitiba, Brazil. Currently working at'
+      text: 'a front-end developer based in Curitiba, Brazil (soon Montreal, Canada). Currently working at'
     }
   },
   work: {

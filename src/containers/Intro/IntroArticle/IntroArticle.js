@@ -13,8 +13,8 @@ import {
 
 const NAME = 'Phillip Gruneich';
 const AUDIO_SRC = '/assets/phillip-gruneich.mp3';
-const EMPLOYER_URL = 'https://www.paranabanco.com.br/'
-const EMPLOYER_NAME = 'Paraná Banco';
+const EMPLOYER_URL = 'https://www.alayacare.com/'
+const EMPLOYER_NAME = 'AlayaCare';
 
 export const IntroArticle = () => {
   const langContext = useContext(LanguageContext);
