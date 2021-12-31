@@ -3,7 +3,7 @@ export default {
     article: {
       hi: 'Oi',
       iam: 'sou',
-      text: 'desenvolvedor front-end residindo em Curitiba, Brasil (em breve Montreal, Canadá). Atualmente desenvolvendo pela'
+      text: 'desenvolvedor front-end brasileiro em Montreal, Canadá. Atualmente desenvolvendo pela'
     }
   },
   work: {
