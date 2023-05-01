@@ -1,25 +1,25 @@
 import React, { useContext } from 'react';
 import { HighContrastContext } from '~/store/HighContrastStore';
-import { IntroArticle } from './IntroArticle';
-import { IntroTopBar } from './IntroTopBar';
 import {
   IntroWrapper,
   IntroContainer,
   IntroBrand,
   IntroSection,
-  IntroLogo
+  IntroLogo,
+  IntroArticleGrid as IntroArticle,
+  IntroTopBarGrid as IntroTopBar
 } from './Intro.styles';
 
 export const Intro = () => {
   const contrastContext = useContext(HighContrastContext);
 
   return (
-    <IntroWrapper hasHighContrast={contrastContext.state}>
+    <IntroWrapper id="intro-wrapper" hasHighContrast={contrastContext.state}>
       <IntroContainer>
-        <IntroBrand>
-          <IntroLogo />
-        </IntroBrand>
         <IntroSection>
+          <IntroBrand>
+            <IntroLogo />
+          </IntroBrand>
           <IntroTopBar />
           <IntroArticle />
         </IntroSection>

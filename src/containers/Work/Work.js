@@ -40,6 +40,7 @@ export const Work = () => {
 const Clients = [
   'O Boticário',
   'Renault',
+  'Paraná Banco',
   'Frimesa',
   'Apae',
   'Corteva',

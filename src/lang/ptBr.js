@@ -13,5 +13,13 @@ export default {
   calltoaction: {
     say: 'DÁ',
     hi: 'OI'
+  },
+  footer: {
+    intro: 'Isso foi divertido e tal, mas estamos apenas começando. Vamos tomar um ',
+    strikethrough: 'drink',
+    invite: 'café e falar sobre o futuro.',
+    small: 'Até parece coisa séria.',
+    farewell: 'Aqui está meu',
+    goodbye: 'e este é meu site. Obrigado por aparecer. Volte sempre.'
   }
 }

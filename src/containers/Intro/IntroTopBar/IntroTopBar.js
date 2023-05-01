@@ -6,8 +6,8 @@ import {
   IntroTopBarContainer
 } from './IntroTopBar.styles';
 
-export const IntroTopBar = () => (
-  <IntroTopBarWrapper>
+export const IntroTopBar = (props) => (
+  <IntroTopBarWrapper {...props}>
     <IntroTopBarContainer>
       <HighContrastToggle />
       <Languages />

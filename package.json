@@ -10,17 +10,17 @@
     "test": "jest"
   },
   "dependencies": {
-    "next": "^9.4.4",
+    "next": "^13.3.1",
     "normalize.css": "^8.0.1",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "styled-components": "^5.1.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.10"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.9.0",
-    "@testing-library/react": "^10.2.1",
-    "babel-plugin-styled-components": "^1.10.7",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "babel-plugin-styled-components": "^2.1.1",
     "directory-named-webpack-plugin": "^4.0.1",
-    "jest": "^26.0.1"
+    "jest": "^29.5.0"
   }
 }

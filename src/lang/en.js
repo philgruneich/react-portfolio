@@ -13,5 +13,13 @@ export default {
   calltoaction: {
     say: 'SAY',
     hi: 'HI'
+  },
+  footer: {
+    intro: 'This was fun, but we\'re just getting started. Let\'s have a ',
+    strikethrough: 'drink',
+    invite: 'coffee and discuss the future.',
+    small: 'This sounds serious.',
+    farewell: 'Here\'s my',
+    goodbye: 'and this is my site. Thank you for coming.'
   }
 }

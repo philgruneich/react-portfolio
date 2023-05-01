@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import styled, { createGlobalStyle  } from 'styled-components';
+import styled, { createGlobalStyle } from 'styled-components';
 
 const Wrapper = styled.div.attrs({
   'data-testid': 'wrapper'

@@ -10,7 +10,7 @@ import {
   CallToActionLink
 } from './CallToAction.styles';
 
-export const CallToAction = () => {
+export const CallToAction = (props) => {
   const langContext = useContext(LanguageContext);
   const contrastContext = useContext(HighContrastContext);
 
@@ -20,8 +20,8 @@ export const CallToAction = () => {
     <CallToActionLink href={`mailto:${process.env.EMAIL_ADDRESS}`} aria-label={`${_.say} '${_.hi}'!`}>
       <CallToActionSvg>
         <CallToActionGroup>
-          <CallToActionWavy hasHighContrast={contrastContext.state} />
-          <CallToActionTextGroup hasHighContrast={contrastContext.state}>
+          <CallToActionWavy wavyColor={props.wavyColor} hasHighContrast={contrastContext.state} />
+          <CallToActionTextGroup wavyTextColor={props.wavyTextColor} hasHighContrast={contrastContext.state}>
             <CallToActionText x="606.571" y="592.749" transform="matrix(.6678 .38556 -.38936 .6744 -124.604 -581.137)">{_.say}</CallToActionText>
             <CallToActionText x="597.131" y="659.949" transform="matrix(.6678 .38556 -.38936 .6744 -124.604 -581.137)">'{_.hi}'!</CallToActionText>
           </CallToActionTextGroup>
